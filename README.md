@@ -62,4 +62,4 @@ one parameter: the generic collection of type T. It should be able to remove dup
                       newPage
                     }
                     
-5. Create a unit test class.
+5. Add a unit test.
