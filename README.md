@@ -14,7 +14,7 @@ one parameter: the generic collection of type T. It should be able to remove dup
 
 1. The generic duplicate handler should be a class with at least one public method: RemoveDuplicates().
 2. RemoveDuplicates method accepts ICollection of T objects and returns ICollection of T objects.
-3. RemoveDuplicates() method should return a list of distinct T objects from the input collection.
+3. RemoveDuplicates() method should return an ICollection of distinct T objects from the input collection.
 4. Instantiate the generic duplicate handler class for each type below and call RemoveDuplicates() method passing these inputs:
             
             Input1:
