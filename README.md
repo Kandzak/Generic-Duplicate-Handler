@@ -7,7 +7,7 @@ one parameter: the generic collection of type T. It should be able to remove dup
 
 1. Generate a new **private** repo.
 2. Write your solution to the requirements listed below to your generated repo.
-3. Once your repo is ready for review, add `rowconstantino` as a collaborator for your repo.
+3. Once your repo is ready for review, add `rowconstantino` and kevaltrivedied@gmail.com as a collaborators for your repo.
 4. Wait for our response.
 
 ## Requirements
